@@ -1,10 +1,9 @@
 {
-  "name": "belVG/module-mailhog",
+  "name": "belvg/module-mailhog",
   "description": "for best development exprierence",
   "require": {
     "php": "~7.*",
-    "magento/framework": "^102.0.0",
-    "magento/framework-message-queue": "^100.3.0"
+    "magento/framework": ">=100.*.*"
   },
   "type": "magento2-module",
   "version": "1.0.0",
